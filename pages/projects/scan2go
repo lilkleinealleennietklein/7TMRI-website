@@ -1,0 +1,24 @@
+---
+
+layout: page
+permalink: /projects/scan2go
+header:
+  image_fullwidth: "software.png"
+
+title: "Scan2Go"
+subheadline: '3D Human Model'
+teaser: 'Anthropometric design & validation tool'
+
+images:
+  - image_id: ''
+    image_name: ''
+    image_title: ''
+    image_alt: ''  
+
+tags: 
+  - projects
+  - grp_soft
+
+---
+
+More information about 3D Human Model can be found on the [3D Human Model website](https://3dhumanmodel.com/){:target="_blank"}.
